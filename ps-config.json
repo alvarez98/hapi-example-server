@@ -1,0 +1,26 @@
+{
+  "production": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "CursoHapi",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": "5434"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "CursoHapitest",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": "5434"
+  },
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "CursoHapidev",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": "5434"
+  }
+}
